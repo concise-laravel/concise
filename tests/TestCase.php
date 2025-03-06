@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Articulate\Concise\Tests;
+namespace Concise\Tests;
 
 use Orchestra\Testbench\TestCase as OrchestraTestCase;
 

@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Articulate\Concise;
+namespace Concise;
 
 use Illuminate\Support\ServiceProvider;
 

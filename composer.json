@@ -22,17 +22,17 @@
   "license"          : "MIT",
   "autoload"         : {
     "psr-4": {
-      "Articulate\\Concise\\": "src/"
+      "Concise\\": "src/"
     },
     "files": []
   },
   "autoload-dev"     : {
     "psr-4": {
-      "Articulate\\Concise\\Tests\\": "tests/",
-      "App\\"                       : "workbench/app/",
-      "Database\\Factories\\"       : "workbench/database/factories/",
-      "Database\\Mappers\\"         : "workbench/database/mappers/",
-      "Database\\Seeders\\"         : "workbench/database/seeders/"
+      "Concise\\Tests\\"     : "tests/",
+      "App\\"                : "workbench/app/",
+      "Database\\Factories\\": "workbench/database/factories/",
+      "Database\\Mappers\\"  : "workbench/database/mappers/",
+      "Database\\Seeders\\"  : "workbench/database/seeders/"
     }
   },
   "authors"          : [
